@@ -13,7 +13,7 @@ public class HomeController {
     @RequestMapping("admin")
     public String getHome(){
 
-        System.out.println("ddd");
+        System.out.println("eee");
         return "home";
     }
 }
